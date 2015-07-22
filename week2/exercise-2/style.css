@@ -1,0 +1,42 @@
+/* Exercise 1 */
+p {
+  color: green
+}
+
+h1 {
+  text-align: center
+}
+
+a {
+  text-decoration: none
+}
+
+html {
+  font-family: Helvetica Neue, Arial;
+  background: whitesmoke;
+}
+
+
+/*******************************************************************************
+  Exercise 2
+
+  Work with your partner on the following.
+
+  Make the following changes using style.css:
+
+    1. Add a 60 pixel margin to the top of h1’s
+    2. Add right padding of 10 pixels to all images
+    3. Make the bulleted list items line up horizontally (with margin between
+         them) instead of stack vertically (there are two ways to do this!)
+    4. Make the nav element have a fixed position, a white background,  a
+         solid 1 pixel gray border, and a width filling the full width
+         of the screen
+
+  HTML + CSS cheatsheet: http://bit.ly/1TlrTNP
+  Named Colors: http://bit.ly/1g8MdPc
+
+*****************************************************************************
+*/
+
+
+
