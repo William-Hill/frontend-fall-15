@@ -52,7 +52,7 @@ The class final project gives students the opportunity to apply class learnings.
 		<th>Week</th>
 		<th>Day</th>
 		<th>Date</th>
-		<th>Topic<th>
+		<th>Topic</th>
 	</tr>
 	<tr>
 		<td>1</td>
