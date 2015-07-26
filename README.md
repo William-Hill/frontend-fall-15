@@ -20,20 +20,23 @@ Welcome to the Hackbright Frontend Web Development Course. This repo contains al
 	<tr>
 		<td>Lijie Zhou</td>
 		<td>lijie@hackbrightacademy.com</td>
-		<td></td>
+		<td>LijieZhou</td>
 	</tr>
 </table>
 
 ##Course Overview
 This course is designed to give students basic programming skills to build interactive client-side websites. It covers frontend technologies such as HTML, CSS, JavaScript, and jQuery. Frontend development includes programming which produces the portion of websites or web application that is displayed in a browser, that user can see and interact with directly. The course will also cover developer tools and workflows, including git and GitHub, and mini-lectures on emerging developer technologies.
 
+##Course Prerequisites
+This course assumes that the student has a basic understanding of programming. All students should be able to answer all questions in the [Frontend Entrance Quiz](https://docs.google.com/a/hackbrightacademy.com/forms/d/1C0VJ6cXmbkbBvFl2JKpnp8MBJQwzP0KtJ5n8CnACVrI/viewform) correctly. If you're unable to answer all questions correctly, you can prepare for the class by completing [Codeacademy's Intro to Javascript](https://www.codecademy.com/en/tracks/javascript) as prework.
+
 ##Class Organization
 The class is a 10 week course, which meets twice a week for 3 hours. Due to the amount of materials covered in a condensed format, it is not recommended that students miss class. If a student has an emergency or other obligation (which can not be rescheduled), students can contact the instructors to obtain materials covered in class.
 
-Each class will include both a lecture and computer lab format. All computer lab exercises will be done with a 'pairing partner' using Hackbright's pairing stations. Lectures are interactive and both questions and discussion on lecture topics are encouraged.  
+Each class will include both a lecture and computer lab time. Lecture materials are available ahead of class. It is recommended that you review the lecture summary for each lecture ahead of class. Lecture summaries are provided in this repo for each corresponding week as a README file. Lectures are interactive and both questions and discussion on lecture topics are encouraged.All computer lab exercises will be done through [pair programming](http://www.wikihow.com/Pair-Program) with your partner using Hackbright's provided pairing stations.  
 
 ##Class Assignments
-Each week a class assignment will be given. Each assignment will cover topics covered in the previous week's lectures. Each assignment is design to iteratively build on the previous assignment. Assignments are due each Monday before the start of class. The cumulative goal of assignments is to build a personal portfolio which includes exercises and projects developed in the course. By the end of the course, each student will have an interactive front end portfolio.
+Each week a class assignment will be given. Each assignment will cover topics covered in the previous week's lectures. Each assignment is design to iteratively build on the previous assignment. Assignments are due each Monday before the start of class. The cumulative goal of assignments is to build a personal portfolio which includes exercises and projects developed in the course. [Portfolio Example](https://themeavenue.github.io/Behance-API-Handlebars/) By the end of the course, each student will have an interactive front end portfolio. Assignments will be reviewed in class during Wednesday lecture. Four - five students will briefly (max of 2 mins) present and demo their assignment to the class.
 
 ###How to submit class assignments
 All assignments should be submitted through Github. After an assignment is complete, students should create a repo on Github and push the assignment to the respective repo. Then a [Github Issue](https://guides.github.com/features/issues/) should be created on the repo to notify class instructors that the assignment has been completed. Notify instructors by @ mentioning their usernames in the issue description. Include all instructors in the description. In addition, feel free to ask any questions or comment on any difficulty you had while completing the assignment. Also, please include how long it took you to complete the assignment. Each assignment repo should also include a README file which gives a description of the assignment. Bonus if you include a screenshot or animated gif of the finished assignment.
