@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+
+<html>
+<head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script>
+$(document).ready(function(){
+    $("p").click(function(){
+        $(this).hide();
+    });
+});
+</script>
+
+</head>
+
+<body>
+	<h1>this is the title of code appetiser</h1>
+	<div>
+		<p>header 1</p>
+		<p>header 2</p>
+		<p>smaller header</p>
+	</div>
+	
+	
+</body>
+</html>
+
