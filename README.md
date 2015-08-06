@@ -1,5 +1,5 @@
-# Part-time Frontend Web Development Course (Summer '15)
-Welcome to the Hackbright Frontend Web Development Course. This repo contains all the course materials for the Summer 2015 session that begins August 10th and ends October 14th.
+# Part-time Frontend Web Development Course (Fall '15)
+Welcome to the Hackbright Frontend Web Development Course. This repo contains all the course materials for the Fall 2015 session that begins August 10th and ends October 14th.
 ###Instructors
 <table>
 	<tr>
