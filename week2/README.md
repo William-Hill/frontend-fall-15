@@ -25,4 +25,5 @@
 
 - Play around with different color and font schemes
 
+![Website Layout](http://codingpad.maryspad.com/wp-content/uploads/2009/03/tut4layout.jpg)
 
