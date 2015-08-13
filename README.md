@@ -182,7 +182,8 @@ The class final project gives students the opportunity to apply class learnings.
 
 ##We want to improve. Give us your suggestions and feedback.
 At the end of each class, students will have the opportunity to provide feedback on that day's lectures and exercises. We call this the 'exit survey'. Please do complete and feel free to express any comments, concerns, and feedback for improvement.
-	
+
+[Click here for the exit survey](http://frontend.hackbrightacademy.com/)
 			  
 
 
