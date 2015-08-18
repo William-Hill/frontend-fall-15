@@ -8,17 +8,21 @@
 ## Wednesday - Forms and More
 - [Lecture Slides](https://docs.google.com/presentation/d/1V7fNg6PUmcG5WGN5XcjdWAPHU3PxR87xBuueg5lxHMY)
 - [Exercises Repo](https://github.com/hackbrightacademy/frontend-week-2)
+<<<<<<< HEAD
 - [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
 
 
 ## Resources
+  [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
+  [Named Colors](http://bit.ly/1g8MdPc)
+  [Cool textures](http://subtlepatterns.com/)
+  [Placekitten](http://placekitten.com/)
+  [Hipster Ipsum](http://hipsum.co/)
+||||||| merged common ancestors
 - [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
-- [Named Colors](http://bit.ly/1g8MdPc)
-- [Cool textures](http://subtlepatterns.com/)
-- [Placekitten](http://placekitten.com/)
-- [Hipster Ipsum](http://hipsum.co/)
-
-
+=======
+- [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
+ 
 ## Homework - Putting it all together
 
 - Continuing building on portfolio
@@ -29,10 +33,11 @@
   3. Main body - the meat of your page, should include a few paragraphs
   4. Right sidebar - external links, should float right have a width of 25%
   5. Footer - more site nav
-
+ 
 - Add a simple contact form and use (TODO) as your form action
 
 - Play around with different color and font schemes
 
 ![Website Layout](http://codingpad.maryspad.com/wp-content/uploads/2009/03/tut4layout.jpg)
 
+>>>>>>> aee2a000c872972b06e2900947fcb9c23ec3b8c9
