@@ -21,16 +21,17 @@
 
 ## Homework - Putting it all together
 
-- Continuing building on portfolio
+- Continuing building on portfolio, one possible layout:
 
-- We're going to have five main sections:
+- Five main sections:
   1. Header - title and logo
   2. Left sidebar - site nav, should float left and have a width of 25%
   3. Main body - the meat of your page, should include a few paragraphs
   4. Right sidebar - external links, should float right have a width of 25%
   5. Footer - more site nav
 
-- Add a simple contact form and use (TODO) as your form action
+
+- Add a simple contact form and use [http://formspree.io/](http://formspree.io/) as your form action
 
 - Play around with different color and font schemes
 
