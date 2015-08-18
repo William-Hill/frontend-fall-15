@@ -17,3 +17,22 @@
   [Cool textures](http://subtlepatterns.com/)
   [Placekitten](http://placekitten.com/)
   [Hipster Ipsum](http://hipsum.co/)
+
+
+## Homework - Putting it all together
+
+- Continuing building on portfolio
+
+- We're going to have five main sections:
+  1. Header - title and logo
+  2. Left sidebar - site nav, should float left and have a width of 25%
+  3. Main body - the meat of your page, should include a few paragraphs
+  4. Right sidebar - external links, should float right have a width of 25%
+  5. Footer - more site nav
+ 
+- Add a simple contact form and use (TODO) as your form action
+
+- Play around with different color and font schemes
+
+![Website Layout](http://codingpad.maryspad.com/wp-content/uploads/2009/03/tut4layout.jpg)
+
