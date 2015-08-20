@@ -1,6 +1,7 @@
 #Week 3 Lecture Summary
 ##Optional Prework
-- Review Programming Logic [Blockly](https://blockly-games.appspot.com/maze?lang=en)
+- Review Programming Logic [Blockly](https://blockly-games.appspot.com/maze?lang=en)  
+
 ##Monday Class
 ###Lecture Slides
 - [Intro to JavaScript](https://docs.google.com/presentation/d/1atOK_pjgz6xrg90EjHEhBz8Y1UxycgcfllJiv1K0VwM/edit?usp=sharing)  
