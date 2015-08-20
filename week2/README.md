@@ -12,12 +12,20 @@
 
 
 ## Resources
+- [Git Cheat Sheet](https://github.com/hackbrightacademy/pt-frontend-fall-2015/wiki/Git-Cheat-Sheet)
 - [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
 - [Named Colors](http://bit.ly/1g8MdPc)
 - [Cool textures](http://subtlepatterns.com/)
 - [Placekitten](http://placekitten.com/)
 - [Hipster Ipsum](http://hipsum.co/)
 
+## Checkpoint
+
+![Ermagerd, Cherkpernt!](http://i.imgur.com/mKKFP5d.jpg)
+
+Please fill out this quick form BEFORE Monday's class. Thanks!
+
+- [Checkpoint](https://docs.google.com/a/hackbrightacademy.com/forms/d/1X_ypRxll61sf5O5l57XJ95QJck85qsrj6jXX4hHmpRg/viewform)
 
 ## Homework - Putting it all together
 
@@ -29,7 +37,6 @@
   3. Main body - the meat of your page, should include a few paragraphs
   4. Right sidebar - external links, should float right have a width of 25%
   5. Footer - more site nav
-
 
 - Add a simple contact form and use [http://formspree.io/](http://formspree.io/) as your form action
 
