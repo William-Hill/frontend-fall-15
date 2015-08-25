@@ -15,5 +15,5 @@
 - [Eloquent JavaScript](http://eloquentjavascript.net/Eloquent_JavaScript.pdf)  
 
 ##Homework Assignment  
-Note: Reuse your existing repo from the previous homework assignment. Create another issue on the same repo, to notify us.  
+Note: Reuse your existing repo from the previous homework assignment. Create another issue on the same repo, to notify us. **Deploy latest to Github Pages**    
 Choose a minimum of 2 in-class projects. Refine/customize these projects. (ie: Add html + css) Add these assignments to your portfolio as images. (use screenshots) Add a simple thank you message to your page after someone has submitted a contact form. Allow the thank you form to close. (Hint: You can do this by creating a hidden div on your page. When a visitor clicks the submit button on your form, change the div to be visible. The div should have a button or link which allows the visitor to get rid of the message. ie A 'Close' button. When the visitor clicks the 'Close' button, the thank you div goes back to being hidden.)
