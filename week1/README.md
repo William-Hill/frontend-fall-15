@@ -5,7 +5,7 @@
 2. Watch [video on pair programming](https://www.youtube.com/watch?v=vgkahOzFH2Q). Tweens have the best way of explaining things.
 
 ###Lecture Slides
-- [Welcome](https://docs.google.com/presentation/d/1nDbo0OEqF-cA3dDhdd6ZUmOnqTmHyBiK4W2nLc-x87Y/edit?usp=sharing)  
+- [Welcome](https://docs.google.com/presentation/d/1vkdb1lFA6mSBkSeYuNCXdpg5LrCCuE96l1pNgu-ii7o/edit?usp=sharing)  
 - [Command Line](https://docs.google.com/presentation/d/15LB8iHoAiluNpT3gTD_pDOIcSWIhBtCje4k78mYLqxE/edit?usp=sharing)  
 - [Git](https://docs.google.com/presentation/d/1g2Kiu2SHDD7RFfiBgwDH_w5-0Bnkd468DUOYgohEM3U/edit?usp=sharing)  
 
