@@ -1,7 +1,0 @@
-var friends= ["Mike", "Mary","Sherry","Eric"]; 
-
-
-friends.forEach(function(eachName,index){
-	console.log(index+1+ "." + eachName); 
-});
-
