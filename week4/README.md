@@ -6,7 +6,7 @@
 3. Read [W3School: Javascript Function Invocation](http://www.w3schools.com/js/js_function_invocation.asp). 
 
 ###Lecture Slides
-- [Anonymous Function and Callback](https://drive.google.com/file/d/0BzsBD-G31f93cThkR080WWZwaUU/view)  
+- [Anonymous Function and Callback](https://docs.google.com/presentation/d/1feA7jJOw1SksW_HurlwAWXRzjfdATlpCOOvxhVnZVBk/edit#slide=id.p4)  
  
 
 ###Exercises
