@@ -9,9 +9,6 @@
 - [Anonymous Function and Callback](https://docs.google.com/presentation/d/1feA7jJOw1SksW_HurlwAWXRzjfdATlpCOOvxhVnZVBk/edit#slide=id.p4)  
  
 
-###Exercises
-- [Anonymous Function](https://github.com/hackbrightacademy/pt-frontend-summer-2015/blob/master/week4/anonymous-function-exercise/Anonymous%20Function_Exercise)
-
 ###After Class Reading
 - [Anonymous Function](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
 - [Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
