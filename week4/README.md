@@ -1,3 +1,4 @@
+
 #Week 4 Lecture Summary
 ##Monday Class
 ###Prework
@@ -13,6 +14,8 @@
 - [Anonymous Function](http://helephant.com/2008/08/23/javascript-anonymous-functions/)
 - [Callback](http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/)
 
+###Checkpoint 
+https://docs.google.com/forms/d/18ngQQFh7yuhCNzRFPN0vfeRETOjdgkdj-y3iCYoMzLU
 
 
 ##Wednesday Class
