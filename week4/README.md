@@ -19,6 +19,27 @@ https://docs.google.com/forms/d/18ngQQFh7yuhCNzRFPN0vfeRETOjdgkdj-y3iCYoMzLU
 
 
 ##Wednesday Class
+### Notes
+During today's code appetizer, some of you discovered a funky quirk of new browser. If you have an id, then javascript will create a global variable that you can use.  
+<br>
+For example:
+```
+<div id='myDiv'>Hello World</div>
+<script>
+  myDiv.innerText = 'Hello Universe';
+</script>
+```
+In general, this is bad practice. It is best to always create a variable and access the element through the variable. So, instead of the above, do the below:
+<br>
+```
+<div id='myDiv'>Hello World</div>
+<script>
+  var myDiv = document.getElementById('myDiv');
+  myDiv.innerText = 'Hello Universe';
+</script>
+```
+More information can be found [here](http://stackoverflow.com/questions/3434278/do-dom-tree-elements-with-ids-become-global-variables)
+
 
 ###Homework  
 Add Javascript to your portfolio project. You can chose from one of the options below or come up with your own idea.   
