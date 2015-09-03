@@ -19,3 +19,15 @@ https://docs.google.com/forms/d/18ngQQFh7yuhCNzRFPN0vfeRETOjdgkdj-y3iCYoMzLU
 
 
 ##Wednesday Class
+
+###Homework  
+Add Javascript to your portfolio project. You can chose from one of the options below or come up with your own idea.   
+_Some Options_  
+- Enlarge portfolio pictures when you click on them.  
+- Make a dropdown navigation menu.  
+- Add a slider gallery for portfolio pictures.  
+- Add email validation to your contact form.  
+
+###Checkpoint 2  
+[http://goo.gl/forms/IKJlX4bWvU](http://goo.gl/forms/IKJlX4bWvU)
+
