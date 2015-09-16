@@ -121,19 +121,19 @@ The class final project gives students the opportunity to apply class learnings.
 		<td>6</td>
 		<td>Mon</td>
 		<td>9/14/15</td>
-		<td>AJAX, JSON</td>
+		<td>jQuery</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>Wed</td>
 		<td>9/16/15</td>
-		<td>APIs</td>
+		<td>AJAX</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>Mon</td>
 		<td>9/21/15</td>
-		<td>Advanced Topic Lecture*, Project Workshop</td>
+		<td>JSON, APIs</td>
 	</tr>
 	<tr>
 		<td>7</td>
