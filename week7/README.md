@@ -13,3 +13,10 @@ Add to your portfolio page, that last time you did a Github commit.
 4. Use the moment.js library to display your last commit as "Last commit on GitHub was x days ago" or "x months ago"
 5. Also, display a link to view the last commit. This is the return JSON item as payload: {commit: [{url:"example.com"}]}
 
+
+## Wednesday Class
+### Lecture Slides
+- [Responsive Design](https://docs.google.com/presentation/d/1Ax7GtspUMeEbEDW_hxSYFrmAC0Hm4KkQH__41nSxoiw/edit?usp=sharing)
+
+Exercises: https://github.com/hackbrightacademy/frontend-week-7
+
