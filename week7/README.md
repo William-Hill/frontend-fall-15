@@ -20,5 +20,5 @@ Add to your portfolio page, that last time you did a Github commit.
 
 Exercises: https://github.com/hackbrightacademy/frontend-week-7
 
-Hello Bootstrap: [here](hello-bootstrap.html)
+Hello Bootstrap: [here](http://getbootstrap.com/examples/theme/)
 
