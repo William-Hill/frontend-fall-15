@@ -8,9 +8,9 @@ Welcome to the Hackbright Frontend Web Development Course. This repo contains al
 		<th>Github Username</th>
 	</tr>
 	<tr>
-		<td>Hadiyah Mujhid</td>
-		<td>hadiyah@hackbrightacademy.com</td>
-		<td>DiyahM</td>
+		<td>William Hill</td>
+		<td>william@hackbrightacademy.com</td>
+		<td>William-Hill</td>
 	</tr>
 	<tr>
 		<td>Keenahn Jung</td>
