@@ -1,5 +1,5 @@
 # Part-time Frontend Web Development Course (Fall '15)
-Welcome to the Hackbright Frontend Web Development Course. This repo contains all the course materials for the Fall 2015 session that begins August 10th and ends October 14th.
+Welcome to the Hackbright Frontend Web Development Course. This repo contains all the course materials for the Fall 2015 session that begins October 19th and ends December 23rd.
 ###Instructors
 <table>
 	<tr>
@@ -13,14 +13,14 @@ Welcome to the Hackbright Frontend Web Development Course. This repo contains al
 		<td>William-Hill</td>
 	</tr>
 	<tr>
-		<td>Keenahn Jung</td>
-		<td>keenahn@hackbrightacademy.com</td>
-		<td>Keenahn</td>
+		<td>Ahmad Alawad</td>
+		<td>ahmad@hackbrightacademy.com</td>
+		<td></td>
 	</tr>
 	<tr>
-		<td>Lijie Zhou</td>
-		<td>lijie@hackbrightacademy.com</td>
-		<td>LijieZhou</td>
+		<td>Nadine Farah</td>
+		<td>nadine@hackbrightacademy.com</td>
+		<td></td>
 	</tr>
 </table>
 
@@ -60,122 +60,122 @@ The class final project gives students the opportunity to apply class learnings.
 	<tr>
 		<td>1</td>
 		<td>Mon</td>
-		<td>8/10/15</td>
+		<td>10/19/15</td>
 		<td>Introduction to the course, Command Line Basics, Git Basics</td>
 	</tr>
 	<tr>
 		<td>1</td>
 		<td>Wed</td>
-		<td>8/12/15</td>
+		<td>10/21/15</td>
 		<td>HTML</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Mon</td>
-		<td>8/17/15</td>
+		<td>10/26/15</td>
 		<td>CSS, Project Idea Pitches</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>Wed</td>
-		<td>8/19/15</td>
+		<td>10/28/15</td>
 		<td>Web Forms, HTTP Requests</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>Mon</td>
-		<td>8/24/15</td>
+		<td>11/2/15</td>
 		<td>Javascript Basics</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>Wed</td>
-		<td>8/26/15</td>
+		<td>11/4/15</td>
 		<td>Javascript for the Web, Finalize Project Teams</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>Mon</td>
-		<td>8/31/15</td>
+		<td>11/9/15</td>
 		<td>Javascript Part II</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>Wed</td>
-		<td>9/2/15</td>
-		<td>Javascript Part III, Javascript Debugging, Project Wireframes Due</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>Mon</td>
-		<td>9/7/15</td>
+		<td>11/11/15</td>
 		<td>NO CLASS</td>
 	</tr>
 	<tr>
 		<td>5</td>
+		<td>Mon</td>
+		<td>11/16/15</td>
+		<td>Javascript Part III, Javascript Debugging, Project Wireframes Due</td>
+	</tr>
+	<tr>
+		<td>5</td>
 		<td>Wed</td>
-		<td>9/9/15</td>
+		<td>11/18/15</td>
 		<td>jQuery</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>Mon</td>
-		<td>9/14/15</td>
+		<td>11/23/15</td>
 		<td>jQuery</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>Wed</td>
-		<td>9/16/15</td>
+		<td>11/25/15</td>
+		<td>NO CLASS</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Mon</td>
+		<td>11/30/15</td>
 		<td>AJAX</td>
 	</tr>
 	<tr>
 		<td>7</td>
-		<td>Mon</td>
-		<td>9/21/15</td>
+		<td>Wed</td>
+		<td>12/2/15</td>
 		<td>JSON, APIs</td>
 	</tr>
 	<tr>
-		<td>7</td>
-		<td>Wed</td>
-		<td>9/23/15</td>
-		<td>Advanced Topic Lecture*, Project Workshop</td>
-	</tr>
-	<tr>
 		<td>8</td>
 		<td>Mon</td>
-		<td>9/28/15</td>
+		<td>12/7/15</td>
 		<td>Advanced Topic Lecture*, Project Workshop</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>Wed</td>
-		<td>9/30/15</td>
+		<td>12/9/15</td>
 		<td>Advanced Topic Lecture*, Project Workshop</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>Mon</td>
-		<td>10/5/15</td>
+		<td>12/14/15</td>
 		<td>Advanced Topic Lecture*, Project Workshop</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>Wed</td>
-		<td>10/7/15</td>
+		<td>12/16/15</td>
 		<td>Advanced Topic Lecture*, Project Workshop</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>Mon</td>
-		<td>10/12/15</td>
+		<td>12/21/15</td>
 		<td>Advanced Topic Lecture*, Project Workshop</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>Wed</td>
-		<td>10/14/15</td>
-		<td>Final Project Presentation & Celebration</td>
+		<td>12/23/15</td>
+		<td>Graduation/Celebration Night</td>
 	</tr>
 </table>
 <i>*Advanced Topic Lectures: Lectures on emerging technologies, tools, and techniques. Topics for these advanced lectures are created from input from students usually based on their final projects needs. Topics previously covered included: D3.js, Firebase, and Responsive Web Design.</i>
