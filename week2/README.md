@@ -1,7 +1,7 @@
 # Week 2
 
 ## Monday - CSS
-- [Lecture Slides](https://docs.google.com/presentation/d/17s4kUFQnvp2Yf7DApaAkN0sBuBGJPjqOqP_bs0_2k8E)
+- [Lecture Slides](https://docs.google.com/presentation/d/1KsrvBl_9vgP-R4wpS2IhHkjiquK9sNSxywkEdsLDifI/edit?usp=sharing)
 - [Exercises Repo](https://github.com/hackbrightacademy/frontend-week-2)
 - [HTML + CSS cheatsheet](http://bit.ly/1f6nQFz)
 
